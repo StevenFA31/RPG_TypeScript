@@ -60,8 +60,6 @@ Crée des instances des trois classes `HeroAxe`, `HeroSword` et `HeroSpear` et v
 
 Crée une boucle qui fait que deux instances de sous-classes `Hero` s'affrontent (elles attaquent en même temps).
 
-​
-
 Quand au moins l'une d'entre elles est morte, afficher `{heroName} wins`. Si les deux sont morts, afficher `It's a draw`.
 
 ### Bonus 1 : Les dégâts de l'arme
